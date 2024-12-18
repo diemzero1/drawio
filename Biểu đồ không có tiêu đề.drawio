@@ -49,6 +49,18 @@
             <mxPoint x="599.5" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LVZCf0hYnNkqwHZgKI_H-7" value="Publish" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="621" y="279" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVZCf0hYnNkqwHZgKI_H-8" value="Publish" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="621" y="149" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVZCf0hYnNkqwHZgKI_H-9" value="Subcribe" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="518" y="149" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVZCf0hYnNkqwHZgKI_H-10" value="Subcribe" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="518" y="279" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
